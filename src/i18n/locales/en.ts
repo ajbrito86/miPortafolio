@@ -15,7 +15,7 @@ export const en = {
   profile: {
     name: "Amado Junior Brito Nuñez",
     shortName: "Amado Brito",
-    title: "Senior Full-Stack Engineer",
+    title: "Senior Full-Stack Developer",
     location: "Santo Domingo, Dominican Republic",
     email: "plutyn@gmail.com",
     phone: "+1 (809) 316-6591",
@@ -23,7 +23,7 @@ export const en = {
     photoAlt: "Professional portrait of Amado Junior Brito Nuñez",
   },
   hero: {
-    eyebrow: "Senior full-stack engineer · 10+ years shipping production software",
+    eyebrow: "Senior Full-Stack Developer · 10+ years delivering production software",
     title: "I build reliable web applications for teams that need software to work in production.",
     subtitle:
       "I help teams deliver business-critical software across frontend architecture, backend APIs, SQL databases, dashboards, integrations, and deployment using React, Angular, .NET, NestJS, SQL Server, and Docker.",
@@ -46,7 +46,7 @@ export const en = {
     eyebrow: "About me",
     title: "Practical engineering for systems that teams depend on.",
     paragraphs: [
-      "I am a senior full-stack engineer with 10+ years of experience building and modernizing business-critical software. My work spans frontend architecture, backend APIs, SQL databases, integrations, deployment, and operational reliability.",
+      "I am a senior full-stack developer with 10+ years of experience building and modernizing business-critical software. My work spans frontend architecture, backend APIs, SQL databases, integrations, deployment, and operational reliability.",
       "My approach combines code quality, performance, functional analysis, technical leadership, and value delivery. I enjoy turning complex requirements into maintainable systems that teams can ship, operate, and evolve with confidence.",
     ],
     highlights: [
