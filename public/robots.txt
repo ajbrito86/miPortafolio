@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miportafolio.kingdom-devs.net/sitemap.xml

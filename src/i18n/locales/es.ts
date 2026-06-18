@@ -15,7 +15,7 @@ export const es = {
   profile: {
     name: "Amado Junior Brito Nuñez",
     shortName: "Amado Brito",
-    title: "Full-Stack Software Developer",
+    title: "Ingeniero Full-Stack Senior",
     location: "Santo Domingo, República Dominicana",
     email: "plutyn@gmail.com",
     phone: "+1 (809) 316-6591",
@@ -23,10 +23,10 @@ export const es = {
     photoAlt: "Retrato profesional de Amado Junior Brito Nuñez",
   },
   hero: {
-    eyebrow: "Full-stack developer · 10+ años creando software institucional",
-    title: "Desarrollo soluciones web robustas, escalables y orientadas a resultados.",
+    eyebrow: "Ingeniero full-stack senior · 10+ años entregando software en producción",
+    title: "Construyo aplicaciones web confiables para equipos que necesitan software listo para producción.",
     subtitle:
-      "Soy desarrollador full-stack con más de 10 años de experiencia construyendo sistemas institucionales, plataformas web, APIs, dashboards y soluciones empresariales con React, Angular, .NET, NestJS y SQL Server.",
+      "Ayudo a equipos a entregar software crítico de negocio desde arquitectura frontend, APIs backend, bases de datos SQL, dashboards, integraciones y despliegue con React, Angular, .NET, NestJS, SQL Server y Docker.",
     primaryCta: "Ver proyectos",
     secondaryCta: "Contactarme",
     panelTitle: "Stack principal",
@@ -44,10 +44,10 @@ export const es = {
   },
   about: {
     eyebrow: "Sobre mí",
-    title: "Ingeniería práctica para sistemas que importan.",
+    title: "Ingeniería práctica para sistemas de los que dependen los equipos.",
     paragraphs: [
-      "Soy un desarrollador de software apasionado y altamente motivado, con experiencia en la creación de soluciones web robustas, eficientes y escalables. He trabajado tanto en el lado del cliente como en el servidor, participando en proyectos de distintas escalas y niveles de complejidad.",
-      "Mi enfoque combina calidad de código, rendimiento, análisis funcional, liderazgo técnico y entrega de valor. He liderado equipos de desarrollo, revisado código, gestionado despliegues y construido sistemas usados por instituciones públicas y organizaciones privadas.",
+      "Soy un ingeniero full-stack senior con más de 10 años de experiencia construyendo y modernizando software crítico de negocio. Mi trabajo abarca arquitectura frontend, APIs backend, bases de datos SQL, integraciones, despliegue y confiabilidad operativa.",
+      "Mi enfoque combina calidad de código, rendimiento, análisis funcional, liderazgo técnico y entrega de valor. Disfruto convertir requerimientos complejos en sistemas mantenibles que los equipos pueden entregar, operar y evolucionar con confianza.",
     ],
     highlights: [
       "Liderazgo técnico y revisión de código.",

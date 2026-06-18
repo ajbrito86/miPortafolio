@@ -52,6 +52,14 @@ docker run --rm -p 8080:80 amado-brito-portfolio
 
 The containerized app runs at `http://localhost:8080`.
 
+## Docker Compose
+
+```bash
+docker compose up -d --build
+```
+
+The compose file expects an existing external network named `nginx-proxy-manager_default`.
+
 ## Branching
 
 - `develop`: active development branch.

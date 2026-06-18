@@ -15,7 +15,7 @@ export const en = {
   profile: {
     name: "Amado Junior Brito Nuñez",
     shortName: "Amado Brito",
-    title: "Full-Stack Software Developer",
+    title: "Senior Full-Stack Engineer",
     location: "Santo Domingo, Dominican Republic",
     email: "plutyn@gmail.com",
     phone: "+1 (809) 316-6591",
@@ -23,10 +23,10 @@ export const en = {
     photoAlt: "Professional portrait of Amado Junior Brito Nuñez",
   },
   hero: {
-    eyebrow: "Full-stack developer · 10+ years building institutional software",
-    title: "I build robust, scalable, and results-driven web solutions.",
+    eyebrow: "Senior full-stack engineer · 10+ years shipping production software",
+    title: "I build reliable web applications for teams that need software to work in production.",
     subtitle:
-      "I am a full-stack software developer with 10+ years of experience building institutional systems, web platforms, APIs, dashboards, and enterprise solutions using React, Angular, .NET, NestJS, and SQL Server.",
+      "I help teams deliver business-critical software across frontend architecture, backend APIs, SQL databases, dashboards, integrations, and deployment using React, Angular, .NET, NestJS, SQL Server, and Docker.",
     primaryCta: "View projects",
     secondaryCta: "Contact me",
     panelTitle: "Core stack",
@@ -44,10 +44,10 @@ export const en = {
   },
   about: {
     eyebrow: "About me",
-    title: "Practical engineering for systems that matter.",
+    title: "Practical engineering for systems that teams depend on.",
     paragraphs: [
-      "I am a passionate and highly motivated software developer with experience creating robust, efficient, and scalable web solutions. I have worked across both client-side and server-side development, contributing to projects of different sizes and complexity levels.",
-      "My approach combines code quality, performance, functional analysis, technical leadership, and value delivery. I have led development teams, reviewed code, managed deployments, and built systems used by public institutions and private organizations.",
+      "I am a senior full-stack engineer with 10+ years of experience building and modernizing business-critical software. My work spans frontend architecture, backend APIs, SQL databases, integrations, deployment, and operational reliability.",
+      "My approach combines code quality, performance, functional analysis, technical leadership, and value delivery. I enjoy turning complex requirements into maintainable systems that teams can ship, operate, and evolve with confidence.",
     ],
     highlights: [
       "Technical leadership and code review.",

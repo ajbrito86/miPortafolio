@@ -1,0 +1,14 @@
+services:
+  portfolio:
+    build:
+      context: .
+    container_name: amado-portfolio
+    expose:
+      - "80"
+    restart: unless-stopped
+    networks:
+      - nginx-proxy-manager_default
+
+networks:
+  nginx-proxy-manager_default:
+    external: true
